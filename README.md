@@ -1,6 +1,6 @@
 # 📌 Portfolio
 
-This is my personal portfolio built with **Next.js** and **Tailwind CSS** to showcase my skills, projects, and contact information.
+This is my personal portfolio built with **Next.js** , **TypeScript** and **Tailwind CSS** to showcase my skills, projects, and contact information.
 
 
 ---
